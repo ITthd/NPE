@@ -15,4 +15,4 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print('hello')
-print('a')
+print('수정이가 말합니다 : 메롱')
